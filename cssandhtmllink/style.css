@@ -1,0 +1,10 @@
+
+#elemento-1 {
+  color: red;
+  size: 12em;
+}
+* {
+
+  border: 1px dotted red;
+
+}
