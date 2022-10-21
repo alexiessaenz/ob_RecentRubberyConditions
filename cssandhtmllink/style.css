@@ -1,10 +1,8 @@
 
 #elemento-1 {
   color: red;
-  size: 12em;
+  font-size: 12pt;
 }
-* {
-
-  border: 1px dotted red;
-
+li:nth-child(1){
+  font-size: 2rem;
 }
