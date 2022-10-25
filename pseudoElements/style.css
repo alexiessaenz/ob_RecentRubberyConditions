@@ -1,0 +1,13 @@
+button:hover{
+    background-color: green;
+    color: aliceblue;
+    content: "hecho";
+}
+
+span{
+    display: none;
+    
+}
+button::after{
+    content: '¡Hecho!';
+}
